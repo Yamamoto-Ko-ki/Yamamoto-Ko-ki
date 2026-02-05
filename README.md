@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student passionate about systems, and security. <br>🔨 I'm currently working on Linux Sandboxing & system research projects. <br>🌱 Currently learning Cloud Security.  <br>💻 Exploring different areas of programming languages. 
+Freashman Computer Engineering student passionate about systems, and security. <br>🔨 I'm currently working on Linux Sandboxing & system research projects. <br>🌱 Currently learning Cloud Security.  <br>💻 Exploring different areas of programming languages. 
 
 
 ## 🌐 Socials:
